@@ -1,1 +1,1 @@
-# thimma-s-seminar
+#seminar
